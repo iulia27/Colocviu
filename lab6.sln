@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab6", "lab6\lab6.csproj", "{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Debug|x64.ActiveCfg = Debug|x64
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Debug|x64.Build.0 = Debug|x64
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Release|x64.ActiveCfg = Release|x64
+		{894E53E9-46D8-4C5C-87E2-29AC6208ADFF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A62A4CC-7646-44CD-942F-004BE8B18FF3}
+	EndGlobalSection
+EndGlobal
